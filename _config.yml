@@ -49,7 +49,7 @@ avatar: "/img/profilepic.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kasper Luckow
+  name: Kasp Luckow
   email: "kasper.luckow@sv.cmu.edu"
   facebook: kasper.luckow  # eg. daattali
   github: ksluckow    # eg. daattali
